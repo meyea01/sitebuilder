@@ -85,17 +85,17 @@
             <h4 class="text-center">
                 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore
             </h4>
-<div class="row video-container col-md-4">
+<div class="video-container col-md-4">
+    <iframe src="http://www.youtube.com/embed/nEZqcvTjjWI" height="200" allowfullscreen="" frameborder="0">
+    </iframe>
+</div>
+
+<div class="video-container col-md-4">
     <iframe src="http://www.youtube.com/embed/nEZqcvTjjWI" allowfullscreen="" frameborder="0">
     </iframe>
 </div>
 
-<div class="row video-container col-md-4">
-    <iframe src="http://www.youtube.com/embed/nEZqcvTjjWI" allowfullscreen="" frameborder="0">
-    </iframe>
-</div>
-
-<div class="row video-container col-md-4">
+<div class="video-container col-md-4">
     <iframe src="http://www.youtube.com/embed/nEZqcvTjjWI" allowfullscreen="" frameborder="0">
     </iframe>
 </div>
