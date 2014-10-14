@@ -32,9 +32,9 @@
                 </thead>
                 <tbody>
                     <tr>
-                        <td data-title="ID"><a href="">001</a>
+                        <td data-title="ID"><a href="#">001</a>
                         </td>
-                        <td data-title="Quote Title"><a href="">Andrew's Quick Stop Madison</a>
+                        <td data-title="Quote Title"><a href="#">Andrew's Quick Stop Madison</a>
                         </td>
                         <td data-title="Created" class="numeric">10/01/2014</td>
                         <td data-title="Status" class="numeric open">Archived</td>
@@ -79,27 +79,24 @@
         </p>
     </div>
 
-                    <h1 class="text-center">
+            <h1 class="text-center">
                 Getting Started
             </h1>
             <h4 class="text-center">
                 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore
             </h4>
-<div class="video-container col-md-4">
-    <iframe src="http://www.youtube.com/embed/nEZqcvTjjWI" height="200" allowfullscreen="" frameborder="0">
+    <div class="row">
+<div class="col-md-6">
+    <iframe src="http://www.youtube.com/embed/nEZqcvTjjWI" width="100%" height="400" allowfullscreen="" frameborder="0">
     </iframe>
 </div>
 
-<div class="video-container col-md-4">
-    <iframe src="http://www.youtube.com/embed/nEZqcvTjjWI" allowfullscreen="" frameborder="0">
+
+<div class="col-md-6">
+    <iframe src="http://www.youtube.com/embed/nEZqcvTjjWI" width="100%" height="400" allowfullscreen="" frameborder="0">
     </iframe>
 </div>
-
-<div class="video-container col-md-4">
-    <iframe src="http://www.youtube.com/embed/nEZqcvTjjWI" allowfullscreen="" frameborder="0">
-    </iframe>
-</div>
-
+        </div>
 </div>
 
 <!--#include file="footer.asp"-->

@@ -36,9 +36,7 @@
             </div>
         </div><!-- Table -->
 
-        <div class="table-wrapper">
-            <div class="table-title">
-                <h3>Tank Components</h3>
+<div class="table-wrapper"><div class="table-title"><h3>Tank Components</h3>
             </div>
 
             <table class="responsive table-striped">
@@ -51,6 +49,9 @@
 
                         <th>List<br>
                         Each</th>
+
+                        <th>Discount<br>
+                        </th>
 
                         <th class="col-sm-1">Units<br>
                         Advised</th>
@@ -70,6 +71,9 @@
                         <td>PRESSURE/VACUUM VENT 2" SET @8 oz PRESS, 1/2 oz VACUUM (PRES.VACVENT,O-RING,2"8-OZ)</td>
 
                         <td>$62.00</td>
+                        
+                        <td><input id="textinput" name="textinput" type="text" placeholder="25%" class="form-control input-sm"></td>
+
 
                         <td class="text-centered">5</td>
 
@@ -85,6 +89,8 @@
 
                         <td>$165.00</td>
 
+                        <td><input id="textinput" name="textinput" type="text" placeholder="25%" class="form-control input-sm"></td>
+
                         <td class="text-centered">2</td>
 
                         <td><input id="textinput" name="textinput" type="text" placeholder="2" class="form-control input-sm"></td>
@@ -98,6 +104,8 @@
                         <td>CAP, 4" (OBS TOP SEAL CAP 4",POLY,EBW)</td>
 
                         <td>$165.00</td>
+
+                        <td><input id="textinput" name="textinput" type="text" placeholder="25%" class="form-control input-sm"></td>
 
                         <td class="text-centered">2</td>
 
@@ -113,19 +121,7 @@
 
                         <td>$165.00</td>
 
-                        <td class="text-centered">2</td>
-
-                        <td><input id="textinput" name="textinput" type="text" placeholder="2" class="form-control input-sm"></td>
-
-                        <td>$330.00</td>
-                    </tr>
-
-                    <tr>
-                        <td>80230302</td>
-
-                        <td>PRESSURE/VACUUM VENT 2" SET @8 oz PRESS</td>
-
-                        <td>$165.00</td>
+                        <td><input id="textinput" name="textinput" type="text" placeholder="25%" class="form-control input-sm"></td>
 
                         <td class="text-centered">2</td>
 
@@ -141,19 +137,7 @@
 
                         <td>$165.00</td>
 
-                        <td class="text-centered">2</td>
-
-                        <td><input id="textinput" name="textinput" type="text" placeholder="2" class="form-control input-sm"></td>
-
-                        <td>$330.00</td>
-                    </tr>
-
-                    <tr>
-                        <td>80230302</td>
-
-                        <td>PRESSURE/VACUUM VENT 2" SET @8 oz PRESS</td>
-
-                        <td>$165.00</td>
+                        <td><input id="textinput" name="textinput" type="text" placeholder="25%" class="form-control input-sm"></td>
 
                         <td class="text-centered">2</td>
 
@@ -169,19 +153,7 @@
 
                         <td>$165.00</td>
 
-                        <td class="text-centered">2</td>
-
-                        <td><input id="textinput" name="textinput" type="text" placeholder="2" class="form-control input-sm"></td>
-
-                        <td>$330.00</td>
-                    </tr>
-
-                    <tr>
-                        <td>80230302</td>
-
-                        <td>PRESSURE/VACUUM VENT 2" SET @8 oz PRESS</td>
-
-                        <td>$165.00</td>
+                        <td><input id="textinput" name="textinput" type="text" placeholder="25%" class="form-control input-sm"></td>
 
                         <td class="text-centered">2</td>
 
@@ -197,19 +169,7 @@
 
                         <td>$165.00</td>
 
-                        <td class="text-centered">2</td>
-
-                        <td><input id="textinput" name="textinput" type="text" placeholder="2" class="form-control input-sm"></td>
-
-                        <td>$330.00</td>
-                    </tr>
-
-                    <tr>
-                        <td>80230302</td>
-
-                        <td>PRESSURE/VACUUM VENT 2" SET @8 oz PRESS</td>
-
-                        <td>$165.00</td>
+                        <td><input id="textinput" name="textinput" type="text" placeholder="25%" class="form-control input-sm"></td>
 
                         <td class="text-centered">2</td>
 
@@ -224,6 +184,72 @@
                         <td>PRESSURE/VACUUM VENT 2" SET @8 oz PRESS</td>
 
                         <td>$165.00</td>
+
+                        <td><input id="textinput" name="textinput" type="text" placeholder="25%" class="form-control input-sm"></td>
+
+                        <td class="text-centered">2</td>
+
+                        <td><input id="textinput" name="textinput" type="text" placeholder="2" class="form-control input-sm"></td>
+
+                        <td>$330.00</td>
+                    </tr>
+
+                    <tr>
+                        <td>80230302</td>
+
+                        <td>PRESSURE/VACUUM VENT 2" SET @8 oz PRESS</td>
+
+                        <td>$165.00</td>
+
+                        <td><input id="textinput" name="textinput" type="text" placeholder="25%" class="form-control input-sm"></td>
+
+                        <td class="text-centered">2</td>
+
+                        <td><input id="textinput" name="textinput" type="text" placeholder="2" class="form-control input-sm"></td>
+
+                        <td>$330.00</td>
+                    </tr>
+
+                    <tr>
+                        <td>80230302</td>
+
+                        <td>PRESSURE/VACUUM VENT 2" SET @8 oz PRESS</td>
+
+                        <td>$165.00</td>
+
+                        <td><input id="textinput" name="textinput" type="text" placeholder="25%" class="form-control input-sm"></td>
+
+                        <td class="text-centered">2</td>
+
+                        <td><input id="textinput" name="textinput" type="text" placeholder="2" class="form-control input-sm"></td>
+
+                        <td>$330.00</td>
+                    </tr>
+
+                    <tr>
+                        <td>80230302</td>
+
+                        <td>PRESSURE/VACUUM VENT 2" SET @8 oz PRESS</td>
+
+                        <td>$165.00</td>
+
+                        <td><input id="textinput" name="textinput" type="text" placeholder="25%" class="form-control input-sm"></td>
+
+                        <td class="text-centered">2</td>
+
+                        <td><input id="textinput" name="textinput" type="text" placeholder="2" class="form-control input-sm"></td>
+
+                        <td>$330.00</td>
+                    </tr>
+
+                    <tr>
+                        <td>80230302</td>
+
+                        <td>PRESSURE/VACUUM VENT 2" SET @8 oz PRESS</td>
+
+                        <td>$165.00</td>
+
+                        <td><input id="textinput" name="textinput" type="text" placeholder="25%" class="form-control input-sm"></td>
 
                         <td class="text-centered">2</td>
 
@@ -234,7 +260,6 @@
                 </tbody>
             </table>
         </div><!-- Table -->
-
         <div class="table-wrapper">
             <div class="table-title">
                 <h3>Overfill Protection</h3>
